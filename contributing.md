@@ -4,7 +4,7 @@ If you want to contribute to stepsystem (first, a big thanks ❤️  you help us
 
 1. Fork the repository
 2. Update or add code
-3. If you are adding a new page, copy the [base template](base.html) and replace the heding and lorem ipsum text with your text :)
+3. If you are adding a new page, copy the [base template](base.html) and replace the heading and lorem ipsum text with your text :)
 4. Open a PR
 
 - Make sure your code is valid
